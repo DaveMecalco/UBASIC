@@ -88,8 +88,6 @@ Aquellos alumnos que llevan el color de su universidad en el corazón, los que e
 Somos aquellos que queremos dejar huella y ser la base para un mejor futuro, los que no se rajan ante las adversidades y están dispuestos a dejar el alma por el honor de institución.
 Somos:
 
--<a href="https://www.facebook.com/josue.islasmorales">Josue Islas</a>
-
 -<a href="https://www.facebook.com/Develop.DaveM/">David Mecalco</a>
 
 **Hecho con amor en UPIICSA 💚**
